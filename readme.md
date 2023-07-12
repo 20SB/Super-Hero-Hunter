@@ -54,4 +54,4 @@ This project is done by me from scratch by referring to google and coding ninja.
 
 
 ## Deployed Link
--[ALARM CLOCK]()
+-[SUPER HERO HUNTER](https://super-hero-hunter-subha.netlify.app/)
